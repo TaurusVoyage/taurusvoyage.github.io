@@ -1,0 +1,26 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_1.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_2.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_3.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_4.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_5.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_6.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_7.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_8.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_9.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_10.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_11.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_12.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_13.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_14.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_15.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_16.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_17.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_18.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_19.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_20.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_21.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_22.txt
+Sitemap: https://taurusvoyage.github.io/taurusvoyage_github_io_23.txt
